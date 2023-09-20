@@ -1,0 +1,97 @@
+/**************************/
+/* BELOW 901px (Tablets) */
+/**************************/
+
+@media (max-width: 57em) {
+  .main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .logo h1 {
+    font-size: 1.6rem;
+  }
+
+  .logo span {
+    font-size: 2.4rem;
+  }
+
+  .search {
+    width: 30rem;
+    font-size: 1.4rem;
+    padding: 0.8rem 1.6rem;
+  }
+
+  .num-results {
+    font-size: 1.4rem;
+  }
+
+  .box {
+    height: 100%;
+  }
+}
+
+/**************************/
+/* BELOW 704px (smaller Tablets) */
+/**************************/
+@media (max-width: 44em) {
+  .main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav-bar {
+    padding: 0 2rem;
+    height: 6rem;
+    grid-template-columns: 0.5fr 1.5fr 1fr;
+  }
+
+  .logo h1 {
+    display: none;
+  }
+
+  .logo span {
+    font-size: 2.8rem;
+  }
+
+  .search {
+    width: 25rem;
+  }
+
+  .num-results {
+    font-size: 1.2rem;
+  }
+}
+
+/**************************/
+/* BELOW 544px (Phones) */
+/**************************/
+@media (max-width: 34em) {
+  .nav-bar {
+    padding: 0 2rem;
+    height: 6rem;
+    grid-template-columns: 0.5fr 1fr;
+    gap: 3rem;
+  }
+
+  .box {
+    width: 38rem;
+  }
+
+  .num-results {
+    display: none;
+  }
+
+  .list li {
+    font-size: 1.2rem;
+  }
+
+  .list h3 {
+    font-size: 1.2rem;
+  }
+
+  .details {
+    font-size: 1rem;
+  }
+}
