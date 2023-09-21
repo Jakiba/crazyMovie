@@ -4,6 +4,5 @@ Also rate them yourself and them to your watched-List to find them later and mey
 
 You can see the website here: <a href='https://crazymovie.netlify.app/'><strong> click me! </strong></a>
 </br>
-<img align='center' width="896" alt="image" src="![image](https://github.com/Jakiba/crazyMovie/assets/91326015/1a8b5ddb-388b-42f3-90f9-5fa9f7a03f36)
-">
-<img align='center' width="896" alt="image" src="![image](https://github.com/Jakiba/crazyMovie/assets/91326015/f206cce8-1f67-4499-a700-99cd0dbb69a9)">
+![image](https://github.com/Jakiba/crazyMovie/assets/91326015/1a8b5ddb-388b-42f3-90f9-5fa9f7a03f36)
+![image](https://github.com/Jakiba/crazyMovie/assets/91326015/f206cce8-1f67-4499-a700-99cd0dbb69a9)
